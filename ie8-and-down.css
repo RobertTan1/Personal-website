@@ -1,0 +1,27 @@
+.notice {
+ text-align: center; 
+padding-top:180px;
+height: 100%
+}
+
+#hide {
+  display: none;
+}
+
+h3 {
+ text-align: right 
+}
+
+body {
+	background:url('http://www.robertcltan.com.s3.amazonaws.com/Files/Assets/IEbacksplash.jpg') no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+}
+
+::-moz-selection { /* Code for Firefox */
+    background: rgba(12, 16, 44, .7);
+}
+
+::selection {
+    background: rgba(12, 16, 44, .7);
+}
